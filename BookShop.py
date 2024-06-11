@@ -25,7 +25,7 @@ with open('books.csv', 'w', newline='') as csvfile:
 
 host = "localhost"
 user = "root"
-password = "Azicroy45"
+password = "#######"
 database = "BOOKSHOP"
 db = mysql.connector.connect(
     host=host,

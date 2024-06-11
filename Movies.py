@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 from collections import Counter
 
-OMDB_API_KEY = '8382c80f'
+OMDB_API_KEY = '#######'
 
 
 def get_movie_data(title):
